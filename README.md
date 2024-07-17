@@ -14,13 +14,9 @@ Vulnerabilities
 
 - XSS
 
-- SSTI
-
 - SQL Injection
 
 - Information Disclosure
-
-- Command Injection
 
 - Brute Force
 
